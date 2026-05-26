@@ -154,14 +154,19 @@ Authored improvements resolving **Issues [#6366](https://github.com/dart-lang/si
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=J-Manoj-06&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Manoj-06&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+<!-- Profile Summary Cards — more reliable than github-readme-stats public instance -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=J-Manoj-06&theme=tokyonight" width="100%"/>
 
-</div>
+<br/>
 
-<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=J-Manoj-06&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=J-Manoj-06&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=J-Manoj-06&theme=tokyonight" width="32%"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=J-Manoj-06&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<br/>
+
+<!-- Streak stats — demolab is reliable -->
+<img src="https://streak-stats.demolab.com?user=J-Manoj-06&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%"/>
 
 </div>
 
@@ -171,7 +176,8 @@ Authored improvements resolving **Issues [#6366](https://github.com/dart-lang/si
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=J-Manoj-06&theme=tokyonight&no-frame=true&row=1&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Using gitprofile.vercel.app as alternative trophy renderer -->
+<img src="https://github-profile-trophy.vercel.app/?username=J-Manoj-06&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%"/>
 
 </div>
 
