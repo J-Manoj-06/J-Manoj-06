@@ -172,12 +172,21 @@ Authored improvements resolving **Issues [#6366](https://github.com/dart-lang/si
 
 ---
 
-## 🏅 Trophies
+## 🏅 Achievements & Milestones
 
 <div align="center">
 
-<!-- Using gitprofile.vercel.app as alternative trophy renderer -->
-<img src="https://github-profile-trophy.vercel.app/?username=J-Manoj-06&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+![GSoC](https://img.shields.io/badge/GSoC%202025-Proposal%20%231%20Ranked-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Hackathon](https://img.shields.io/badge/Build2Gether%20Hackathon-Champion%20🏆-FFD700?style=for-the-badge&logoColor=black)
+![Solveathon](https://img.shields.io/badge/Solveathon%20SDG%2012-1st%20Place%20🥇-gold?style=for-the-badge&logoColor=white)
+
+![Dart OSS](https://img.shields.io/badge/Dart%20Docs-3%20PRs%20Merged-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Uptime](https://img.shields.io/badge/Production%20Uptime->98%25-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white)
+![Users](https://img.shields.io/badge/Live%20Users%20Served-90%2B-blueviolet?style=for-the-badge&logoColor=white)
+
+![Submissions](https://img.shields.io/badge/Contest%20Submissions-200%2B-orange?style=for-the-badge&logo=codeforces&logoColor=white)
+![NPTEL](https://img.shields.io/badge/NPTEL%20Big%20Data-Elite%2090%25-red?style=for-the-badge&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-8.79%20%2F%2010-success?style=for-the-badge&logoColor=white)
 
 </div>
 
